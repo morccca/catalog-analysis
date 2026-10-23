@@ -3,7 +3,7 @@
 Статистика, топ фильмов, жанры и актёры. Все функции находятся в
 `catalog_analysis.py`, итоговый отчёт выводит `build_report`.
 
-Python 3.12+, uv.
+Python 3.12+, uv. Автор: Naumov Pavel.
 
 ```bash
 uv sync
