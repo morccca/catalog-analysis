@@ -2,15 +2,9 @@
 
 Учебный проект: статистика, топ фильмов и распределение по жанрам.
 
-Требуются Python 3.12+ и uv.
+Требуется Python 3.12+.
 
 Запуск:
 ```bash
-uv sync
-uv run catalog_analysis.py
-```
-
-Проверка:
-```bash
-uv run ruff check .
+python3 catalog_analysis.py
 ```
